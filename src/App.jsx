@@ -30,7 +30,7 @@ const App = () => {
     <div>
       <h1>API Data</h1>
       <pre>{JSON.stringify(data, null, 2)}</pre>
-      <Test />
+      
     </div>
   );
 };
